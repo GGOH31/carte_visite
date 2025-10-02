@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carte de visite</string>
+    <string name="name"> Goh Gedeon</string>
+    <string name="title">Développeuse Android Senior</string>
+    <string name="phone">+225 0757727688</string>
+    <string name="email">gedeongoh@gmail.com</string>
+    <string name="website">ci-plus.net</string>
+    <string name="location">Abidjan, Palmeraire</string>
+</resources>
